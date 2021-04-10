@@ -1,6 +1,7 @@
 # FastCycle-GAN
 **DISCLAIMER:**
 **THIS IS NOT YET A PRODUCTIVE MODEL, THE SOLUTION IS STILL IN DEVELOPMENT**
+
 This is an on-going project repository for the implementation of an improved Cycle-GAN created by Jun-Yan Zhu et al, model using a Fast Fourier Transform (FFT) as a convolution layer. The model is proposed initially as a less time consuming solution to the Cycle-GAN approach given the Fast Fourier Transform implementation.
 
 ## Main Goal
