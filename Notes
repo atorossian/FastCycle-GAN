@@ -1,0 +1,16 @@
+ANOTACIONES DE TESIS:
+
+*****************************
+* T R A N S F O R M A D A S *
+*****************************
+
+Transformadas a utilizar:
+- Transformada de Ondícula (Wavelet Transform)
+- Transformada de Fourier
+- Transformada de Coseno
+
+Estas transformadas no estan relacionadas entre sí. El resto son generalizaciones o casos particulares de la transformada de Fourier.
+
+La Transformada de Hartley representa todos los valores reales de la Transformada de Fourier, de todos modos, el algoritmo de cálculo no de la FHT no reduce en tiempos de ejecucion o complejidad lo que se calcularía con el algoritmo de FFT. Por lo tanto, no se utilizará en la tesis. FFT es más eficiente que FHT. https://dsp.stackexchange.com/questions/41720/why-isnt-the-hartley-transform-more-widely-used
+
+
